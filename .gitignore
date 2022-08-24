@@ -1,0 +1,5 @@
+# docker in production
+docker-compose.prod.yml
+
+# composer
+vendor
